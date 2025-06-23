@@ -9,6 +9,8 @@ public class ContactTest {
 	}
 	@Test
 	public void modifyContactTest() {
+		
+		//hello
 		System.out.println("contact test");
 	}
 
