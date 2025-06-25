@@ -21,7 +21,7 @@
 						<version>2.20</version>
 						<configuration>
 							<suiteXmlFiles>
-								<suiteXmlFile>testng_RT.xml</suiteXmlFile>
+								<suiteXmlFile>RT.xml</suiteXmlFile>
 							</suiteXmlFiles>
 						</configuration>
 					</plugin>
@@ -38,7 +38,7 @@
 						<version>2.20</version>
 						<configuration>
 							<suiteXmlFiles>
-								<suiteXmlFile>testng_ST.xml</suiteXmlFile>
+								<suiteXmlFile>ST.xml</suiteXmlFile>
 							</suiteXmlFiles>
 						</configuration>
 					</plugin>
